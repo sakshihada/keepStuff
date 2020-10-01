@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+this is desktop based  application build using  reactjs to keep multiple things(notes,remainder,PDF,Docs) at a single place. 
 ## Available Scripts
 
 In the project directory, you can run:
